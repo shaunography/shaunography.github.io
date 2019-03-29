@@ -1,9 +1,5 @@
----
-layout: content
-title: Shaunography
----
-
-
+* [Linkedin]()
+* [Twitter]()
 
 ## Minimalism #
 
