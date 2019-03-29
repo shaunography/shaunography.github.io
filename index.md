@@ -6,25 +6,28 @@ Penetration Tester | Minimalist | Carnivore
 - [Twitter](https://twitter.com/@_shaunography_)
 
 
-Because Minimalism, Carnivory and Bitcoin share a set of common values
+Minimalism, Carnivory and Bitcoin share a set of common values
+
+
 
 Minimalism
 ----------
-Simplicy, true meaning of value,
+Simplicy, being content with less stuff and determining what is of true value. less consumption.
 
 ### Links ###
 
 ### Books ###
-
+- [Minimalism]()
 ### People ###
 
 Carnivory
 ---------
-Eat Meat, Drink Water. Ancesteral health,
+Nothing could be more simple than eating meat and drinking water. Locally reared animals reduce waste and feed the 
+An animal based diet provides all the requirements for life in the most usable form. Restoring ancestral health and well being. eliminating obesingenic processed foods of mordernity. 
 
 ### Links ###
-[L. Amber O’Hearn - The Ultimate Guide to the Carnivore Diet](https://nutrita.app/guide-to-the-carnivore-diet/)
-[Ted Naiman - Burn Fat Not Sugar](http://www.burnfatnotsugar.com/)
+- [L. Amber O’Hearn - The Ultimate Guide to the Carnivore Diet](https://nutrita.app/guide-to-the-carnivore-diet/)
+- [Ted Naiman - Burn Fat Not Sugar](http://www.burnfatnotsugar.com/)
 
 ### Books ###
 [Weston Price]()
@@ -33,7 +36,7 @@ Eat Meat, Drink Water. Ancesteral health,
 
 Bitcoin
 -------
-Time Preference, Hard Money, Sound Money.
+Time Preference, Hard Money, Sound Money, less spending /credit more investment.
 
 ### Links ###
 
