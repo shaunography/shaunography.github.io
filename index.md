@@ -1,7 +1,12 @@
-# Shaunography #
+---
+layout: post
+title: Shaunography
+---
 
-## Minimalism ##
 
-## Carnivory ##
+
+## Minimalism #
+
+## Carnivory #
 
 ## BitCoin & Hard Money ##
