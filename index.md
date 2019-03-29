@@ -1,7 +1,7 @@
-= Shaunography =
+# Shaunography #
 
-== Minimalism ==
+## Minimalism ##
 
-== Carnivory ==
+## Carnivory ##
 
-== BitCoin & Hard Money ==
+## BitCoin & Hard Money ##
